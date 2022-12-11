@@ -4,7 +4,7 @@ C/C++, Java, 자료구조, 알고리즘, 운영체제, 네트워크, 데이터�
 
 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인'의 신입 공채 코딩 테스트에 합격한 이력이 있습니다. 
 
-얼마전 백준 저지 사이트에서 Platinum V를 달성하였으며, 지금도 [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 지속적으로 진행 하고 있습니다.
+얼마전 백준 저지 사이트에서 Platinum V를 달성하였으며, 지금도 [1 일 1 알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 지속적으로 진행 하고 있습니다.
 
 동시에 본격적인 실무 기술을 익히고 포트폴리오를 만들기 위해, Spring을 공부하며 [웹 개발 프로젝트](https://github.com/Joshua-Shin/hello-spring)도 진행하고 있습니다.
 
