@@ -42,10 +42,10 @@ C/C++, Java, 자료구조, 알고리즘, 운영체제, 네트워크, 데이터�
 -------
 
 ### Algorithm
-- 백준 Platinum V
+- [백준 Platinum V](https://solved.ac/profile/sjh910805)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
 
-- 프로그래머스 Lv3
+- [프로그래머스 Lv3](https://career.programmers.co.kr/pr/sjh910805_1792)
 
 -------
 
