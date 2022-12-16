@@ -14,6 +14,11 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 -------
+### Work
+- 엠엔에프씨 음악팀 - 2019.11 ~ 2020.8
+  - 영화 음악 기획 및 제작
+
+-------
 
 ### Education
 - 연세대학교 물리학과 졸업 - 2010.3 ~ 2019.2
