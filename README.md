@@ -36,7 +36,7 @@
   - Java, 객체지향, 클린코드, 예외처리, 테스트코드 학습
   - [[미션 프로젝트]](https://github.com/Joshua-Shin/java-bridge)
 
-#### 📗 책
+#### 📗 학습한 책
 - 윤성우의 열혈 C 프로그래밍 - 윤성우
 - 윤성우의 열혈 C++ 프로그래밍 - 윤성우
 - 윤성우의 열혈 자료구조 - 윤성우
@@ -44,7 +44,7 @@
 - 모두의 네트워크 - 미즈구치 카츠야
 - 운영체제와 정보기술의 원리 - 반효경
 - 윤성우의 열혈 Java 프로그래밍 - 윤성우
-#### 📺 강의
+#### 📺 수강한 강의
 - 알고리즘 기초 1/2, 기초 2/2, 중급 1/3 - 백준
 - 데이터베이스 입문, 실무 - 김남규
 - 모든 개발자를 위한 HTTP 웹 기본 지식 - 김영한
@@ -55,11 +55,11 @@
 -------
 
 ### 💻 Algorithm
-- [백준 Platinum V](https://solved.ac/profile/sjh910805) 
+- [백준 - Platinum V](https://solved.ac/profile/sjh910805) 
      
      
      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
-- [프로그래머스 Lv3](https://career.programmers.co.kr/pr/sjh910805_1792)
+- [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792)
 
 -------
 
