@@ -5,7 +5,7 @@
 - 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 해오고 있습니다.
 - 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인' 신입 공채 코딩 테스트에 합격한 이력이 있습니다.
 - 지금은 기업 코딩 테스트를 넘어서 알고리즘 대회에 도전하기 위해, [1 일 1 알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
-- 본격적인 웹 개발 실무 기술을 익히고 개인 프로젝트를 만들기 위해, Spring과 JPA를 공부하며 진행한 [실습 프로젝트](https://github.com/Joshua-Shin/hello-spring)를 기록하고 있습니다.
+- 본격적인 웹 개발 실무 기술을 익히고 개인 프로젝트를 만들기 위해, Spring과 JPA를 공부하며 [실습 프로젝트](https://github.com/Joshua-Shin/hello-spring)를 기록하고 있습니다.
 
 -------
 
