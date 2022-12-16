@@ -14,9 +14,13 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 -------
+
 ### Work
-- 엠엔에프씨 음악팀 - 2019.11 ~ 2020.8
+- 엠엔에프씨 음악팀 - 2019.11 ~ 2020.8 
+ 
+  - 영화 포스트 프로덕션 회사
   - 영화 음악 기획 및 제작
+  - 영화 '미스터주', '천문', '여고괴담' 참여
 
 -------
 
@@ -49,9 +53,10 @@
 -------
 
 ### Algorithm
-- [백준 Platinum V](https://solved.ac/profile/sjh910805)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
-
+- [백준 Platinum V](https://solved.ac/profile/sjh910805) 
+     
+     
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
 - [프로그래머스 Lv3](https://career.programmers.co.kr/pr/sjh910805_1792)
 
 -------
