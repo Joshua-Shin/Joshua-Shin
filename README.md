@@ -1,4 +1,6 @@
 ## 안녕하세요! 백엔드 개발을 공부하고 있는 신중혁 입니다.
+
+### 💁🏻 About Me
 - 이전까지는 영화 포스트 프로덕션 회사에서 영화음악을 제작하는 작곡가였습니다.
 - 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 해오고 있습니다.
 - 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인' 신입 공채 코딩 테스트에 합격한 이력이 있습니다.
@@ -7,15 +9,15 @@
 
 -------
 
-### Skill
+### ⛏️ Skills
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-### Tool
+### 🔧 Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 -------
 
-### Work
+### 🏢 Work Experience
 - 엠엔에프씨 음악팀 : 2019.11 ~ 2020.8 
  
   - 영화 포스트 프로덕션 회사
@@ -24,7 +26,7 @@
 
 -------
 
-### Education
+### 🎓 Education
 - 연세대학교 물리학과 졸업 : 2010.3 ~ 2019.2
   - 교내 문화예술동아리 '카메라타' 회장
 
@@ -34,7 +36,7 @@
   - Java, 객체지향, 클린코드, 예외처리, 테스트코드 학습
   - [[미션 프로젝트]](https://github.com/Joshua-Shin/java-bridge)
 
-#### 책
+#### 📗 책
 - 윤성우의 열혈 C 프로그래밍 - 윤성우
 - 윤성우의 열혈 C++ 프로그래밍 - 윤성우
 - 윤성우의 열혈 자료구조 - 윤성우
@@ -42,7 +44,7 @@
 - 모두의 네트워크 - 미즈구치 카츠야
 - 운영체제와 정보기술의 원리 - 반효경
 - 윤성우의 열혈 Java 프로그래밍 - 윤성우
-#### 강의
+#### 📺 강의
 - 알고리즘 기초 1/2, 기초 2/2, 중급 1/3 - 백준
 - 데이터베이스 입문, 실무 - 김남규
 - 모든 개발자를 위한 HTTP 웹 기본 지식 - 김영한
@@ -52,7 +54,7 @@
 
 -------
 
-### Algorithm
+### 💻 Algorithm
 - [백준 Platinum V](https://solved.ac/profile/sjh910805) 
      
      
@@ -61,6 +63,6 @@
 
 -------
 
-### 영어
+### 🇺🇸 영어
 - TOEIC 800
 
