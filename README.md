@@ -51,7 +51,7 @@
 - 바킹독의 실전 알고리즘 강의 - 바킹독
 - 스프링 입문 : 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/hello-spring)
 - 스프링 핵심 원리 : 기본편 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/core)
-- 자바 ORM 표준 JPA 프로그래밍 : 기본편 - 김영한 (수강중)
+- 자바 ORM 표준 JPA 프로그래밍 : 기본편 - 김영한 (수강중) [[실습 프로젝트]](https://github.com/Joshua-Shin/ex1-hello-jpa)
 - 실전! 스프링 부트와 JPA 활용1 : 웹 애플리케이션 개발 - 김영한 (수강중) [[실습 프로젝트]](https://github.com/Joshua-Shin/jpashop)
 
 -------
