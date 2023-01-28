@@ -22,7 +22,7 @@
   - 개발기간 : 2023.1.28 ~ 
   - 기획부터 배포 및 유지 보수까지 웹 개발의 전체 라이프 사이클을 경험해본다.
   - 웹 애플리케이션를 개발에 필요한 지식들을 순차적으로 학습하고 이를 곧바로 적용함으로서 학습 효과를 높인다.
-  - [Details](https://github.com/Joshua-Shin/TenHoursStudy)
+  - [More...](https://github.com/Joshua-Shin/TenHoursStudy)
 
 -------
 
@@ -31,7 +31,8 @@
 
   - 영화 포스트 프로덕션 회사
   - 영화 음악 기획 및 제작 파트
-  - 영화 '미스터 주', '천문', '여고괴담 여섯번째 이야기' 참여 [[Details]](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=2996906&qvt=0&query=%EC%8B%A0%EC%A4%91%ED%98%81)
+  - 영화 '미스터 주', '천문', '여고괴담 여섯번째 이야기' 참여 
+  - [More...](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=2996906&qvt=0&query=%EC%8B%A0%EC%A4%91%ED%98%81)
 
 -------
 
