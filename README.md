@@ -5,7 +5,7 @@
 - 올해는 IT 서비스 회사 입사를 주요 목표로 [2023년 계획](https://github.com/Joshua-Shin/PlansFor2023)을 세워, 꾸준히 실천해나가고 있습니다.
 - 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인' 신입 공채 코딩 테스트에 합격한 이력이 있습니다.
 - 지금은 기업 코딩 테스트를 넘어서 알고리즘 대회에 도전하기 위해, [1일 1시간 알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
-- 백엔드 개발에 관심이 있고, Spring과 JPA를 꾸준히 공부하며 실습한 내용을 [Repository](#수강한-강의)에 기록하고 있습니다.
+- 백엔드 개발에 관심이 있고, Spring과 JPA를 꾸준히 공부하며 실습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 기록하고 있습니다.
 
 -------
 
