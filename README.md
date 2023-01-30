@@ -9,11 +9,20 @@
 
 -------
 
-### ⛏️ Skills
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white">
+### 🔧 Skills
+#### BackEnd
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white">
 
-### 🔧 Tools
+#### FrontEnd
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+#### Problem Solving
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+
+#### Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
+
+
 
 -------
 
@@ -62,6 +71,7 @@
 - **스프링** 핵심 원리 : 기본편 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/core)
 - 자바 ORM 표준 **JPA** 프로그래밍 : 기본편 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/ex1-hello-jpa)
 - 실전! **스프링 부트**와 **JPA** 활용1 : 웹 애플리케이션 개발 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/jpashop)
+- HTML/CSS 강의 - 짐코딩의 CODING GYM (수강중)
 
 -------
 
