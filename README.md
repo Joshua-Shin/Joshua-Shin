@@ -41,7 +41,7 @@
   - 영화 포스트 프로덕션 회사
   - 영화 음악 기획 및 제작 파트
   - 영화 '미스터 주', '천문', '여고괴담 여섯번째 이야기' 참여 
-  - [More...](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=2996906&qvt=0&query=%EC%8B%A0%EC%A4%91%ED%98%81)
+  - <a href = "https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&x_csa=%7B%22fromUi%22%3A%22kb%22%7D&pkid=1&os=2996906&qvt=0&query=%EC%8B%A0%EC%A4%91%ED%98%81" target="_blank">More...</a>
 
 -------
 
