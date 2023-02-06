@@ -27,12 +27,22 @@
 -------
 
 ### 📽️ 개인 프로젝트
-- #### TenHoursStudy : 웹 애플리케이션 개발 (진행중)
-  - 개발기간 : 2023.1.28 ~ 
-  - 기획부터 배포 및 유지 보수까지 웹 개발의 전체 라이프 사이클을 경험해본다.
-  - 웹 애플리케이션를 개발에 필요한 지식들을 순차적으로 학습하고 이를 곧바로 적용함으로서 학습 효과를 높인다.
+- #### TenHoursStudy 웹 사이트 개발 (2023.1.28 ~ 진행중)
+  - Java 11, Spring Boot(2.7.8), JPA, Thymeleaf, HTML/CSS, Bootstrap(4.5)
+  - 기획부터 개발, CI/CD까지 웹 개발의 전체 라이프 사이클을 경험하기 위해 진행
+  - 깃허브 액션을 통해 Static 웹 사이트를 현재 호스팅 중
+  - Java와 Spring Boot, Thymeleaf로 로컬에서 게시판 구현 완료
+  - AWS에 서버를 옮기고 CI/CD로 구성 진행중
   - [More...](https://github.com/Joshua-Shin/TenHoursStudy)
 
+- #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
+  - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
+  - SpringBoot와 JPA를 활용하여 쇼핑몰 웹 애플리케이션 개발
+  - 회원, 상품, 주문 기능 구현
+  - 이론적으로만 학습하였던 JPA를 개발에 적극 활용함으로서 실무적인 이해도를 높임
+  - [More...](https://github.com/Joshua-Shin/jpashop)
+  
+  
 -------
 
 ### 🏢 Work Experience
