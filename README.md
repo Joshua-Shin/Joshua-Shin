@@ -3,8 +3,7 @@
 ### 💁🏻 About Me
 - 2021년까지는 영화음악을 제작하는 작곡가였으나, 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 시작하였습니다.
 - 올해는 IT 서비스 회사 입사를 주요 목표로, [2023년 계획](https://github.com/Joshua-Shin/PlansFor2023)을 세워 꾸준히 실천해나가고 있습니다.
-- 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인' 신입 공채 코딩 테스트에 합격한 이력이 있습니다.
-- [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
+- 특히 알고리즘 공부를 즐겨하며, [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
 - 백엔드 개발에 관심이 있고, Spring과 JPA를 꾸준히 공부하며 실습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 기록하고 있습니다.
 - [[이력서]](https://drive.google.com/file/d/1rMTuylr1C9tEYcZPKS3SwBhA9sSFFyoZ/view?usp=share_link)
 
@@ -66,7 +65,7 @@
 -------
 
 ### 🏢 Work Experience
-- 엠엔에프씨 음악팀 : 2019.11 ~ 2020.8 
+- 엠엔에프씨 음악팀 : 2019.11 ~ 2020.8
 
   - 영화 포스트 프로덕션 회사
   - 영화 음악 기획 및 제작 파트
@@ -108,11 +107,11 @@
 -------
 
 ### 💻 Algorithm
-- [백준 - Platinum V](https://solved.ac/profile/sjh910805) 
+- [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.80%
      
      
      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
-- [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792)
+- [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : 랭킹 856위
 
 -------
 
