@@ -2,9 +2,9 @@
 
 ### 💁🏻 About Me
 - 2021년까지는 영화음악을 제작하는 작곡가였으나, 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 시작하였습니다.
-- 올해는 IT 서비스 회사 입사를 주요 목표로 삼고, [2023년 계획](https://github.com/Joshua-Shin/PlansFor2023)을 세워 꾸준히 실천해나가고 있습니다.
+- 올해는 IT 서비스 회사 입사를 주요 목표로, [2023년 계획](https://github.com/Joshua-Shin/PlansFor2023)을 세워 꾸준히 실천해나가고 있습니다.
 - 특히 알고리즘 공부를 즐겨하며, '카카오'와 '라인' 신입 공채 코딩 테스트에 합격한 이력이 있습니다.
-- 이제는 기업 코딩 테스트를 넘어서 알고리즘 대회에 도전하기 위해, [1일 1시간 알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
+- [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
 - 백엔드 개발에 관심이 있고, Spring과 JPA를 꾸준히 공부하며 실습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 기록하고 있습니다.
 - [[이력서]](https://drive.google.com/file/d/1rMTuylr1C9tEYcZPKS3SwBhA9sSFFyoZ/view?usp=share_link)
 
@@ -12,29 +12,49 @@
 
 ### 🔧 Skills
 #### BackEnd
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white">
+- Java
+- Spring Boot, Spring MVC, Spring Data JPA, Spring Rest Docs
+- JPA, Querydsl
+- Oracle SQL
+- Junit5
+- Gradle
+<!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white"> -->
 
 #### FrontEnd
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- HTML5, CSS3
+- Vue.js
+<!-- <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
 
-#### Problem Solving
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+<!-- #### Problem Solving
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  -->
 
 #### Tools
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
-
+- IntelliJ, VSCode
+- Git, Github
+- H2 Database
+- SQL Developer
+- Slack
+<!-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
+ -->
 
 
 -------
 
 ### 📽️ 개인 프로젝트
-- #### TenHoursStudy 웹 사이트 개발 (2023.1.28 ~ 진행중)
+<!-- - #### TenHoursStudy 웹 사이트 개발 (2023.1.28 ~ 진행중)
   - Java 11, Spring Boot(2.7.8), JPA, Thymeleaf, HTML/CSS, Bootstrap(4.5)
   - 기획부터 개발, CI/CD까지 웹 개발의 전체 라이프 사이클을 경험하기 위해 진행
   - 깃허브 액션을 통해 Static 웹 사이트를 현재 호스팅 중
   - Java와 Spring Boot, Thymeleaf로 로컬에서 게시판 구현 완료
   - AWS에 서버를 옮기고 CI/CD로 구성 진행중
-  - [More...](https://github.com/Joshua-Shin/TenHoursStudy)
+  - [More...](https://github.com/Joshua-Shin/TenHoursStudy) -->
+  
+- #### 나만의 블로그 개발 (2023.2.19 ~ 진행중)
+  - Java 11, Spring Boot(2.7.8), Gradle(7.6), Spring Data JPA, JUnit5, Lombok, Spring Rest Docs, Vue.js
+  - 풀스택 개발부터 AWS를 통한 배포까지 웹 개발의 전체 라이프 사이클을 경험하기 위해 진행
+  - 게시판 CRUD 구현, API 구현, API 문서 페이지 구현 완료
+  - Vue.js로 화면 구성 진행중...
+  - [More...](https://github.com/Joshua-Shin/joshualog)
 
 - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
   - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
