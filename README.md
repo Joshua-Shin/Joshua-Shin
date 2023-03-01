@@ -107,11 +107,11 @@
 -------
 
 ### 💻 Algorithm
-- [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.80%
+- [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.80% (2023.03.01)
      
      
      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
-- [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : 랭킹 856위
+- [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : 랭킹 856위 (2023.03.01)
 
 -------
 
