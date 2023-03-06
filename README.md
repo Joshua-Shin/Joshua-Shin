@@ -5,7 +5,7 @@
 - 올해는 IT 서비스 회사 입사를 주요 목표로, [2023년 취업 성공 프로젝트](https://github.com/Joshua-Shin/PlansFor2023)를 진행하고 있습니다.
 - 알고리즘 공부를 즐겨하며, [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
 - 백엔드 개발에 관심이 있고, Spring과 JPA를 꾸준히 공부하며 실습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 기록하고 있습니다.
-- 평소 독서를 좋아하며 '인간관계론'과 '울트라러닝'을 감명깊게 읽었습니다.
+- 평소 독서를 좋아하며 '인간관계론'과 '울트라러닝'을 감명 깊게 읽었습니다.
 - [[이력서]](https://drive.google.com/file/d/1sdtnEG5kKWZ_0ydW_E9hQZBLDkYoqcmC/view?usp=share_link)
 
 -------
