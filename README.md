@@ -101,7 +101,7 @@
 - 실전! **스프링 부트**와 **JPA** 활용1 : 웹 애플리케이션 개발 - 김영한 [[실습 프로젝트]](https://github.com/Joshua-Shin/jpashop)
 - HTML/CSS 강의 - 짐코딩의 CODING GYM [[요약 정리]](https://github.com/Joshua-Shin/HtmlCssStudy) [[실습 프로젝트]](https://joshua-shin.github.io/TenHoursStudyHtml/) [[저장소]](https://github.com/Joshua-Shin/TenHoursStudyHtml)
 - HTML/CSS All-in-one - 코딩애플 (수강중)
-- 스프링 MVC 1편 : 백엔드 웹 개발 핵심 기술 - 김영한 (수강중) [[실습 프로젝트]](https://github.com/Joshua-Shin/MvcStudy)
+- 스프링 MVC 1편 : 백엔드 웹 개발 핵심 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy)
 
 
 -------
