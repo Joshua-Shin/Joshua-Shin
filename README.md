@@ -117,6 +117,7 @@
 
 -------
 
-<!--### 💳 Certification
-- TOEIC 800 : 2021.11 -->
+### 💳 Certification
+- SQLD : 2023.4.14
+<!-- - TOEIC 800 : 2021.11 -->
 
