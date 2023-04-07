@@ -107,17 +107,16 @@
 
 -------
 
-### 💻 Algorithm
+#### 💻 Algorithm
 - [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.69% (2023.04.01)
      
      
 <!--      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805"> -->
 - [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : 랭킹 388위 (2023.04.01)
-<br>
 
--------
 
-### 💳 Certification
-- SQLD : 2023.4.14
+#### 💳 Certification
+- SQLD : 2023.04.14
 <!-- - TOEIC 800 : 2021.11 -->
 
+-------
