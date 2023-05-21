@@ -46,12 +46,13 @@
   - AWS에 서버를 옮기고 CI/CD로 구성 진행중
   - [More...](https://github.com/Joshua-Shin/TenHoursStudy) -->
   
-- #### 나만의 블로그 개발 (2023.2.19 ~ 진행중)
-  - Java 11, Spring Boot(2.7.8), Gradle(7.6), Spring Data JPA, JUnit5, Lombok, Spring Rest Docs, Vue.js
-  - 풀스택 개발부터 AWS를 통한 배포까지 웹 개발의 전체 라이프 사이클을 경험하기 위해 진행
-  - 게시판 CRUD 구현, API 구현, API 문서 페이지 구현 완료
-  - Vue.js로 화면 구성 진행중...
-  - [More...](https://github.com/Joshua-Shin/joshualog)
+- #### MyVers (2023.5.1 ~ 진행중)
+  - ChatGPT를 활용한 가상친구와 채팅 웹 애플리케이션 개발 프로젝트
+  - Java 11, Spring Boot(2.7.11), JPA, JUnit5, Gradle(7.6.1), HTML/CSS, Javascript, Thymeleaf, ChatGPT, Lombok
+  - Spring MVC 기반의 백엔드 서버 구축.
+  - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발.
+  - AWS 기반의 CI/CD 무중단 배포 인프라 구축 (예정)
+  - [More...](https://github.com/Joshua-Shin/joshualog](https://github.com/Joshua-Shin/myvers)
 
 - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
   - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
