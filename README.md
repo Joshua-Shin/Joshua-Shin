@@ -52,7 +52,7 @@
   - Spring MVC 기반의 백엔드 서버 구축.
   - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발.
   - AWS 기반의 CI/CD 무중단 배포 인프라 구축 (예정)
-  - [More...](https://github.com/Joshua-Shin/joshualog](https://github.com/Joshua-Shin/myvers)
+  - [More...](https://github.com/Joshua-Shin/myvers)
 
 - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
   - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
