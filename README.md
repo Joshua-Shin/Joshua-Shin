@@ -12,14 +12,21 @@
 ### 🔧 Skills
 - #### BackEnd
   - Java
-  - Spring, Spring MVC 
-  - JPA, Oracle SQL
+  - Spring, Spring MVC, Spring Data JPA
+  - JPA
+<!--   - JPA, QueryDSL -->
   - Junit5
-  - Thymeleaf
+  - Gradle
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white"> -->
+- #### DevOps
+  - AWS - EC2, S3, RDS, CodeDeploy
+  - Oracle
+  - Nginx
+<!--   - Linux -->
 
 - #### FrontEnd
   - HTML5, CSS3
+  - Thymeleaf
   - Bootstrap5
 <!-- <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
 
@@ -27,8 +34,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  -->
 
 - #### Tools & Etc
-  - IntelliJ, VSCode, Brackets
-  - Github
+  - IntelliJ, VSCode, Vim, Brackets
+  - Git, Github
   - H2 Database, SQL Developer
   - C/C++
 <!-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
@@ -105,7 +112,7 @@
 - HTML/CSS All-in-one - 코딩애플 [[요약 정리]](https://github.com/Joshua-Shin/htmlcssstudy2)
 - 스프링 MVC 1편 : 백엔드 웹 개발 핵심 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy)
 - 스프링 MVC 2편 : 백엔드 웹 개발 활용 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy2)
-- 실전! **스프링 부트**와 **JPA** 활용2 : API 개발과 성능 최적화 - 김영한 (수강중) [[실습 프로젝트]](https://github.com/Joshua-Shin/jpashop2)
+- 실전! **스프링 부트**와 **JPA** 활용2 : API 개발과 성능 최적화 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/jpashop2)
 
 
 -------
