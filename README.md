@@ -2,10 +2,9 @@
 
 ### 💁🏻 About Me
 - 20대는 영화음악 작곡가로 활동하였으나, 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 시작하였습니다.
-- 올해는 IT 서비스 회사 입사를 주요 목표로, [2023년 취업 프로젝트](https://github.com/Joshua-Shin/PlansFor2023)를 진행하고 있습니다.
-- 알고리즘 문제 풀이를 즐겨하며, [1일 1알고리즘](https://github.com/Joshua-Shin/Algorithm-BaekJoon)을 꾸준히 진행하며 기록하고 있습니다.
+- 알고리즘 문제 풀이를 즐겨 하며, 온라인 알고리즘 풀이 사이트인 ‘백준’에서 상위 [3.61%](https://solved.ac/profile/sjh910805)에 랭크되어있습니다.
 - 백엔드 개발에 관심이 있고, Spring과 JPA를 공부하며 학습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 꾸준히 기록하고 있습니다.
-- 현재 ChatGPT API를 활용한 가상 친구와의 채팅 웹 애플리케이션 [MyVers](https://github.com/Joshua-Shin/myvers)를 서비스하고 있습니다.
+- 현재 ChatGPT API를 활용한 가상 친구와의 채팅 웹 애플리케이션 [MyVers](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login)를 서비스하고 있습니다.
 
 -------
 
@@ -51,12 +50,12 @@
   - AWS에 서버를 옮기고 CI/CD로 구성 진행중
   - [More...](https://github.com/Joshua-Shin/TenHoursStudy) -->
   
-- #### MyVers (2023.5.1 ~ 진행중)
+- #### [MyVers](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login) (2023.5.1 ~ 진행중)
   - ChatGPT를 활용한 가상친구와 채팅 웹 애플리케이션 개발 프로젝트
-  - Java 11, Spring Boot(2.7.11), JPA, JUnit5, Gradle(7.6.1), HTML/CSS, Javascript, Thymeleaf, ChatGPT, Lombok
-  - Spring MVC 기반의 백엔드 서버 구축.
-  - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발.
-  - AWS 기반의 CI/CD 무중단 배포 인프라 구축 (예정)
+  - Java 11, Spring Boot(2.7.11), JPA, JUnit5, Gradle(7.6.1), HTML/CSS, Javascript, Thymeleaf, ChatGPT, AWS
+  - Spring MVC 기반의 백엔드 서버 구축
+  - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발
+  - AWS EC2, RDS, S3를 통해 배포, 현재 서비스 운영중 
   - [More...](https://github.com/Joshua-Shin/myvers)
 
 - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
