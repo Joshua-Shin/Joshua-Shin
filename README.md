@@ -19,7 +19,7 @@
 - #### DevOps
   - AWS - EC2, S3, RDS, CodeDeploy
   - Oracle
-  - Nginx
+<!--   - Nginx -->
 <!--   - Linux -->
 
 - #### FrontEnd
