@@ -2,7 +2,7 @@
 
 ### 💁🏻 About Me
 - 20대는 영화음악 작곡가로 활동하였으나, 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 시작하였습니다.
-- 알고리즘 문제 풀이를 즐겨 하며, 온라인 알고리즘 풀이 사이트인 ‘백준’에서 상위 [3.61%](https://solved.ac/profile/sjh910805)에 랭크되어있습니다.
+- 알고리즘 문제 풀이를 즐겨 하며, 국내 최대 알고리즘 사이트인 ‘백준’에서 상위 [3.61%](https://solved.ac/profile/sjh910805)에 랭크되어있습니다.
 - 백엔드 개발에 관심이 있고, Spring과 JPA를 공부하며 학습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 꾸준히 기록하고 있습니다.
 - 현재 ChatGPT API를 활용한 가상 친구와의 채팅 웹 애플리케이션 [MyVers](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login)를 서비스하고 있습니다.
 
@@ -110,7 +110,7 @@
 - 스프링 MVC 1편 : 백엔드 웹 개발 핵심 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy)
 - 스프링 MVC 2편 : 백엔드 웹 개발 활용 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy2)
 - 실전! **스프링 부트**와 **JPA** 활용2 : API 개발과 성능 최적화 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/jpashop2)
-
+- 실전! 스프링 데이터 JPA - 김영한 (수강중) [[요약 정리]](https://github.com/Joshua-Shin/spring-data-jpa-study)
 
 -------
 
