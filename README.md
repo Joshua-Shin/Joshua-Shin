@@ -12,12 +12,14 @@
 - #### BackEnd
   - Java
   - Spring, Spring MVC, Spring Data JPA
-  - Junit5, Gradle
+  - JPA
+  - Junit5
+  - Gradle
 <!--   - JPA, QueryDSL -->
   
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white"> -->
 - #### DevOps
-  - AWS - EC2, S3, RDS, CodeDeploy
+  - AWS EC2, RDS
   - Oracle
 <!--   - Nginx -->
 <!--   - Linux -->
@@ -118,12 +120,13 @@
 - [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.69% (2023.04.01)
      
      
-<!--      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805"> -->
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
 - [프로그래머스 - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : 랭킹 388위 (2023.04.01)
 
 
 #### 💳 Certification
 - SQLD 취득 (2023.04.14)
+- 정보처리기사 취득 (2023.06.09)
 <!-- - TOEIC 800 : 2021.11 -->
 
 -------
