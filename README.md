@@ -12,7 +12,6 @@
 - #### BackEnd
   - Java
   - Spring, Spring MVC, Spring Data JPA
-  - JPA
   - Junit5
   - Gradle
 <!--   - JPA, QueryDSL -->
