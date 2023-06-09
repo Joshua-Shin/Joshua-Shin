@@ -56,7 +56,7 @@
   - Java 11, Spring Boot(2.7.11), JPA, JUnit5, Gradle(7.6.1), HTML/CSS, Javascript, Thymeleaf, ChatGPT, AWS
   - Spring MVC 기반의 백엔드 서버 구축
   - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발
-  - AWS EC2, RDS, S3를 통해 배포, 현재 서비스 운영중 
+  - AWS EC2, RDS를 통해 배포, 현재 서비스 운영중 
   - [More...](https://github.com/Joshua-Shin/myvers)
 
 - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
@@ -124,8 +124,8 @@
 
 
 #### 💳 Certification
-- SQLD 취득 (2023.04.14)
 - 정보처리기사 취득 (2023.06.09)
+- SQLD 취득 (2023.04.14)
 <!-- - TOEIC 800 : 2021.11 -->
 
 -------
