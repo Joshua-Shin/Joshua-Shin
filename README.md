@@ -59,12 +59,12 @@
   - AWS EC2, RDS를 통해 배포, 현재 서비스 운영중 
   - [More...](https://github.com/Joshua-Shin/myvers)
 
-- #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
+<!-- - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
   - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
   - SpringBoot와 JPA를 활용하여 쇼핑몰 웹 애플리케이션 개발
   - 회원, 상품, 주문 기능 구현
   - 이론적으로만 학습하였던 JPA를 개발에 적극 활용함으로서 실무적인 이해도를 높임
-  - [More...](https://github.com/Joshua-Shin/jpashop)
+  - [More...](https://github.com/Joshua-Shin/jpashop) -->
   
   
 -------
