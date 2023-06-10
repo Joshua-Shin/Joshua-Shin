@@ -12,6 +12,7 @@
 - #### BackEnd
   - Java
   - Spring, Spring MVC, Spring Data JPA
+  - JPA, Querydsl
   - Junit5
   - Gradle
 <!--   - JPA, QueryDSL -->
@@ -111,7 +112,8 @@
 - 스프링 MVC 1편 : 백엔드 웹 개발 핵심 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy)
 - 스프링 MVC 2편 : 백엔드 웹 개발 활용 기술 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/MvcStudy2)
 - 실전! **스프링 부트**와 **JPA** 활용2 : API 개발과 성능 최적화 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/jpashop2)
-- 실전! 스프링 데이터 JPA - 김영한 (수강중) [[요약 정리]](https://github.com/Joshua-Shin/spring-data-jpa-study)
+- 실전! 스프링 데이터 JPA - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/spring-data-jpa-study)
+- 실전! Querydsl - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/querydsl-study)
 
 -------
 
