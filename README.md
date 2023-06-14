@@ -1,10 +1,11 @@
 ## 안녕하세요! 백엔드 개발을 공부하고 있는 신중혁 입니다.
 
 ### 💁🏻 About Me
-- 20대는 영화음악 작곡가로 활동하였으나, 1년전 프로그래밍에 깊은 관심이 생겨 개발 공부를 시작하였습니다.
-- 알고리즘 문제 풀이를 즐겨 하며, 국내 최대 알고리즘 사이트인 ‘백준’에서 상위 [3.61%](https://solved.ac/profile/sjh910805)에 랭크되어있습니다.
-- 백엔드 개발에 관심이 있고, Spring과 JPA를 공부하며 학습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 꾸준히 기록하고 있습니다.
+- 백엔드 개발을 주력으로, Spring 및 JPA 등 학습한 내용을 [Repository](https://github.com/Joshua-Shin#-%EC%88%98%EA%B0%95%ED%95%9C-%EA%B0%95%EC%9D%98)에 꾸준히 기록하고 있습니다.
 - 현재 ChatGPT API를 활용한 가상 친구와의 채팅 웹 애플리케이션 [MyVers](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login)를 서비스하고 있습니다.
+- 알고리즘 문제 풀이를 즐겨 하며, 국내 최대 알고리즘 사이트인 ‘백준’에서 상위 [3.57%]((https://solved.ac/profile/sjh910805))에 랭크되어 있습니다.
+- 20대는 연세대학교에서 학업을 마치고 영화음악 작곡가로 활동하였으나,
+30대에는 개발 분야에 깊은 관심이 생겨 프로그래밍 공부를 시작하였고, 단기간 내 성장 중입니다.
 
 -------
 
@@ -15,7 +16,6 @@
   - JPA, Querydsl
   - Junit5
   - Gradle
-<!--   - JPA, QueryDSL -->
   
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/oracle sql-9F1D20?style=for-the-badge&logo=oracle&logoColor=white"> -->
 - #### DevOps
@@ -52,13 +52,13 @@
   - AWS에 서버를 옮기고 CI/CD로 구성 진행중
   - [More...](https://github.com/Joshua-Shin/TenHoursStudy) -->
   
-- #### [MyVers](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login) (2023.5.1 ~ 진행중)
-  - ChatGPT를 활용한 가상친구와 채팅 웹 애플리케이션 개발 프로젝트
+- #### ['MyVers'](http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login) ChatGPT를 활용한 가상친구와 채팅 웹 애플리케이션 개발 프로젝트 (2023.5.1 ~ 진행중)
   - Java 11, Spring Boot(2.7.11), JPA, JUnit5, Gradle(7.6.1), HTML/CSS, Javascript, Thymeleaf, ChatGPT, AWS
   - Spring MVC 기반의 백엔드 서버 구축
   - 데이터 모델링을 비롯 JPA ORM 기술을 사용한 도메인 개발
-  - AWS EC2, RDS를 통해 배포, 현재 서비스 운영중 
-  - [More...](https://github.com/Joshua-Shin/myvers)
+  - AWS EC2, RDS를 통해 배포, 현재 서비스 운영중
+  - Site: http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080/login
+  - Github: https://github.com/Joshua-Shin/myvers
 
 <!-- - #### SpringBoot와 JPA를 활용한 쇼핑몰 웹 애플리케이션 개발 (2023.1.5 ~ 2023.1.29)
   - Java 11, Spring Boot(2.7.7), JPA, JUnit4, H2, Lombok, Thymeleaf, HTML/CSS, Bootstrap(4.3.1)
@@ -71,7 +71,7 @@
 -------
 
 ### 🏢 Work Experience
-- 엠엔에프씨 음악팀 : 2019.11 ~ 2020.8
+- (주)엠엔에프씨 (2019 ~ 2020)
 
   - 영화 포스트 프로덕션 회사
   - 영화 음악 기획 및 제작 파트
@@ -81,11 +81,11 @@
 -------
 
 ### 🎓 Education
-- 연세대학교 물리학과 졸업 : 2010.3 ~ 2019.2
-  - 교내 문화예술동아리 '카메라타' 1기 회장
+- 연세대학교 물리학과 졸업
+  - 문화예술동아리 '카메라타' 신설 및 회장 역임
 
-- '우아한 테크 코스' 백엔드 5기 프리코스 : 2022.11 ~ 2022.12
-  - 우아한형제들에서 4주간 진행된 백엔드 개발자 양성 교육 과정
+- '우아한 테크 코스' 백엔드 5기 프리코스 수료
+  - 우아한형제들(배달의민족 운영사)에서 진행된 백엔드 개발자 양성 교육 과정
   - 프로그래밍 요구 사항이 담긴 미션 기반의 코딩 및 코드리뷰 진행
   - Java, 객체지향, 클린코드, 예외처리, 테스트코드 학습
 
@@ -118,7 +118,7 @@
 -------
 
 #### 💻 Algorithm
-- [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.69% (2023.04.01)
+- [백준 - Platinum V](https://solved.ac/profile/sjh910805) : 상위 3.57% (2023.06.14)
      
      
      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
