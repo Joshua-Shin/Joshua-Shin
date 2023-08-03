@@ -10,7 +10,7 @@
 
 ### 🔧 Skills
 - #### BackEnd
-  - Java
+  - Java, Kotlin
   - Spring, Spring MVC, Spring Data JPA
   - JPA, Querydsl
   - Junit5
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  -->
 
 - #### Tools & Etc
-  - IntelliJ, VSCode, Vim
+  - IntelliJ, VSCode
   - Git, Github
   - C/C++
 <!-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
@@ -113,8 +113,8 @@
 - 실전! **스프링 부트**와 **JPA** 활용2 : API 개발과 성능 최적화 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/jpashop2)
 - 실전! 스프링 데이터 JPA - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/spring-data-jpa-study)
 - 실전! Querydsl - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/querydsl-study)
-- 스프링 부트 : 핵심 원리와 활용 - 김영한 [[요약 정리]](https://github.com/Joshua-Shin/spring-boot-study)
-
+- 스프링 부트 : 핵심 원리와 활용 - 김영한 (수강중) [[요약 정리]](https://github.com/Joshua-Shin/spring-boot-study)
+- 자바 개발자를 위한 코틀린 입문 - 최태현 (수강중)
 -------
 
 #### 💻 Algorithm
