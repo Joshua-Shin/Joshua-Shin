@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  -->
 
 - #### Tools & Etc
-  - IntelliJ, VSCode
+  - IntelliJ, VSCode, Vim
   - Git, Github
   - C/C++
 <!-- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-006600?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-97979A?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL Developer-9F1D20?style=for-the-badge&logo=amazondynamodb&logoColor=white"/> 
