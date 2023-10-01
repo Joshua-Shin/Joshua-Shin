@@ -1,20 +1,25 @@
 ## Joshua Shin
 
 ### Education
-- YONSEI University. Seoul, Korea
-  - B.S. in Physics
+- YONSEI University - B.S. in Physics (Seoul, Korea)
+
+------------------------
 
 ### Skills
 - C++, Java, Spring, Oracle, AWS
 - System Engineering, Backend Engineering
 
-### 🏢 Work Experience
-#### TmaxTibero (2023.10 ~ Ongoing) Pangyo, Korea 
+------------------------
+
+### Work Experience
+#### TmaxTibero: 2023.10 ~ Ongoing (Pangyo, Korea) 
 - Database Engine Development Researcher, R&D
 
-#### MnFC: Film Post-production Company (2019.11 ~ 2020.8)Il-san, Korea 
+#### MnFC: 2019.11 ~ 2020.8 (Il-san, Korea)
 - Composer, Film music planning and production division
 - Involved in films such as 'Mr.Zoo', 'Forbidden Dream,' and 'Whispering Corridors 6'
+
+------------------------
 
 ### Personal Project
 - #### 'MyVers': Virtual Friend and Chat Web Application Development Project Using ChatGPT (May 1, 2023 - Ongoing)
@@ -25,6 +30,8 @@
   - Site: http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080
   - Github: https://github.com/Joshua-Shin/myvers
 
+------------------------
+### Additional
 #### Algorithm
 - [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805) : Top 3.57% (2023.06.14)
      
