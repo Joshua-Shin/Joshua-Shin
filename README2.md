@@ -7,7 +7,7 @@
 
 ### Skills
 - C++, Java, Spring, Oracle, AWS
-- System Engineering, Backend Engineering
+- Backend Engineering, System Engineering
 
 ------------------------
 
