@@ -45,8 +45,8 @@
 - SQL Developer Certification (SQLD) - 2023. 4. 16
 
 #### English
-- TOEIC Score: 800 (2021.11.05)
-- OPIc English IH Level (2023.09.03)
+- TOEIC Score: 800 - 2021.11.05
+- OPIc English IH Level - 2023.09.03
 
 <!--
 #### 💳 Certification
