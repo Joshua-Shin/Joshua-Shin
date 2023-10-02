@@ -41,8 +41,8 @@
 
 
 #### Certification
-- Information Processing Engineer Certification (정보처리기사) (2023. 6. 9)
-- SQL Developer Certification (SQLD) (2023. 4. 16)
+- Engineer Information Processing (정보처리기사) - 2023. 6. 9
+- SQL Developer Certification (SQLD) - 2023. 4. 16
 
 #### English
 - TOEIC Score: 800 (2021.11.05)
