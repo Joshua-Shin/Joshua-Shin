@@ -12,10 +12,10 @@
 ------------------------
 
 ### Work Experience
-#### TmaxTibero: 2023.10 ~ Ongoing (Pangyo, Korea) 
+#### TmaxTibero - 2023.10 ~ Ongoing (Pangyo, Korea) 
 - Database Engine Development Researcher, R&D
 
-#### MnFC: 2019.11 ~ 2020.8 (Il-san, Korea)
+#### MnFC - 2019.11 ~ 2020.8 (Il-san, Korea)
 - Composer, Film music planning and production division
 - Involved in films such as 'Mr.Zoo', 'Forbidden Dream,' and 'Whispering Corridors 6'
 
