@@ -14,6 +14,7 @@
 ### Work Experience
 #### TmaxTibero - 2023.10 ~ Ongoing (Pangyo, Korea) 
 - Database Engine Development Researcher, R&D
+- Development of SQL Compiler Module for the Next-Generation DBMS
 
 #### MnFC - 2019.11 ~ 2020.8 (Il-san, Korea)
 - Composer, Film music planning and production division
@@ -41,9 +42,10 @@
 
 
 #### Certification
-- Engineer Information Processing (정보처리기사) - 2023. 6. 9
-- SQL Developer Certification (SQLD) - 2023. 4. 16
+- Engineer Information Processing (정보처리기사) : Human Resources Development Service of Korea (2023. 6. 9)
+- SQL Developer Certification (SQLD) : Korea Data Agency (2023. 4. 16)
 
+<!--
 #### English
 - TOEIC Score: 800 - 2021.11.05
 - OPIc English IH Level - 2023.09.03
