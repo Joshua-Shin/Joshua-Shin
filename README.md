@@ -23,7 +23,7 @@
 ------------------------
 
 ### Personal Project
-- #### 'MyVers': Virtual Friend and Chat Web Application Development Project Using ChatGPT (May 1, 2023 - Ongoing)
+- #### 'MyVers': Virtual Friend and Chat Web Application Development Project Using ChatGPT (May 1, 2023 - June 11, 2023)
   - Java 11, Spring Boot (2.7.11), JPA, JUnit 5, Gradle (7.6.1), HTML/CSS, JavaScript, Thymeleaf, ChatGPT, AWS
   - Developed a backend server based on Spring MVC framework
   - Implemented domain development using JPA ORM technology, including data modeling
