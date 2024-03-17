@@ -38,8 +38,8 @@
      
      
      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
-- [Programmers - Lv3](https://career.programmers.co.kr/pr/sjh910805_1792) : Rank 388th (2023.04.01)
-
+- [Leetcode](https://leetcode.com/Joshua-Shin/) : Awarded Top 4.2% Contributing Badges in 2023
+<br> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Joshua-Shin)`
 
 #### Certification
 - Engineer Information Processing (정보처리기사) : Human Resources Development Service of Korea (2023. 6. 9)
