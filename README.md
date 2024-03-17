@@ -34,15 +34,15 @@
 ------------------------
 ### Additional
 #### Algorithm
-- [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805) : Top 3.57% (2023.06.14)
-     
-     
-     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
+
 - [Leetcode](https://leetcode.com/Joshua-Shin/)
   - Awarded Top 4.2% Contributing Badges in 2023
   - Awarded Top 6.9% Contributing Badges in 2024
 <br><br> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Joshua-Shin)`
-
+- [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805) : Top 3.57% (2023.06.14)
+     
+     
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
 #### Certification
 - Engineer Information Processing (정보처리기사) : Human Resources Development Service of Korea (2023. 6. 9)
 - SQL Developer Certification (SQLD) : Korea Data Agency (2023. 4. 16)
