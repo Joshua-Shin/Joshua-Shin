@@ -37,7 +37,7 @@
 
 - [Leetcode](https://leetcode.com/Joshua-Shin/)
   - Awarded Top 4.2% Contributing Badges in 2023
-  - Awarded Top 6.9% Contributing Badges in 2024
+  - Awarded Top 4.2% Contributing Badges in 2024
 <br><br> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Joshua-Shin)`
 - [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805) : Top 3.57% (2023.06.14)
      
