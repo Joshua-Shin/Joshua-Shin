@@ -49,11 +49,12 @@
 
 ### 🏆 Achievements & Certifications
 - **Algorithms**
-  - **Top 3.5%** on [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805)
-    
-     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
   - **Top 4.2%** Contributor on [Leetcode](https://leetcode.com/Joshua-Shin/) (Consecutive years: 2023, 2024)
     <br><br> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Joshua-Shin)`
+  - **Top 3.5%** on [Baekjoon](https://solved.ac/profile/sjh910805) - Platinum V
+    
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
+
 - **Certifications**
   - Engineer Information Processing (HRDK)
   - SQL Developer (SQLD, Kdata)
