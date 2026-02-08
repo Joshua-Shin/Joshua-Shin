@@ -64,7 +64,7 @@
 ### 📫 Connect with Me
 - [GitHub](https://github.com/Joshua-Shin)
 - [LinkedIn](www.linkedin.com/in/joonghyuk-shin-631701201)
-- **Email:** sjh910805@gmail.com
+- sjh910805@gmail.com
 
 <!--
 ### Additional
