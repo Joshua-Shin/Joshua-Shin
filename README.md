@@ -1,37 +1,71 @@
-## Joshua Shin
+# JoongHyuk Shin
+**System-level Software Engineer specializing in Database Engine Kernels & Distributed Coordination**
 
-### Education
-- YONSEI University - B.S. in Physics (Seoul, Korea)
+---
 
-------------------------
+### 🚀 Summary
+- **Systems Engineering:** Specializing in database engine kernels and distributed coordination logic.
+- **DBMS Internals:** Expertise in extending **PostgreSQL** with Oracle-compatible features and **Vector/LLM integration** for RAG solutions.
+- **Distributed Systems:** Architected distributed lifecycle engines (OpenScaler) with a focus on **transactional state consistency** and **reliability** in multi-cloud environments.
+- **Background:** Strong foundation in **Physics (Statistical Mechanics)**, providing a deep understanding of probability, mathematical modeling, and high-performance system design.
 
-### Skills
-- C++, Java, Spring, Oracle
-- System Engineering, Backend Engineering
+---
 
-------------------------
+### 🛠 Skills
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C/C++ (Modern)`, `Python`, `SQL`, `Java`, `Bash` |
+| **DB Internals** | `PostgreSQL/Oracle Engine Core`, `Query Compiler`, `Cost-Based Optimizer (CBO)`, `Vector Search` |
+| **Distributed Systems** | `Consensus (etcd/Raft)`, `High Availability (Patroni)`, `Cluster Orchestration (IaC)` |
+| **Core Foundations** | `Probability`, `High-performance Algorithms`, `Performance Profiling & Benchmarking` |
+| **Tools & Env** | `Linux (System-level)`, `Docker`, `Git`, `AWS/Azure (SDK/API Integration)` |
 
-### Work Experience
-#### TmaxTibero - 2023.10 ~ Ongoing (Pangyo, Korea) 
-- Database Engine Development Researcher, R&D
-- Development of SQL Compiler Module for the Next-Generation DBMS
+---
 
-#### MnFC - 2019.11 ~ 2020.8 (Il-san, Korea)
-- Composer, Film music planning and production division
-- Involved in films such as 'Mr.Zoo', 'Forbidden Dream,' and 'Whispering Corridors 6'
+### 💼 Work Experience
 
-------------------------
+#### **Tmax Tibero** | Database Engine Developer (Oct 2023 – Present)
 
-### Personal Project
-- #### 'MyVers': Virtual Friend and Chat Web Application Development Project Using ChatGPT (May 1, 2023 - June 11, 2023)
-  - Java 11, Spring Boot (2.7.11), JPA, JUnit 5, Gradle (7.6.1), HTML/CSS, JavaScript, Thymeleaf, ChatGPT, AWS
-  - Developed a backend server based on Spring MVC framework
-  - Implemented domain development using JPA ORM technology, including data modeling
-  - Deployed the application on AWS EC2 and RDS, currently in operational status.
-  - Site: http://ec2-13-124-42-243.ap-northeast-2.compute.amazonaws.com:8080
-  - Github: https://github.com/Joshua-Shin/myvers
+**1) OpenSQL Team (Nov 2024 – Present)** *PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.*
+- **Oracle Compatibility:** Optimized core functions through algorithm redesign, achieving **50%+ performance gains**.
+- **Row-Level Security (DBMS_RLS):** Designed/implemented Oracle-compatible RLS policies and **planner integration**.
+- **Vector DB & RAG:** Integrated `pgvector` and implemented LLM-based RAG solutions within the DB engine.
+- **Cluster Orchestration (OpenScaler):** Architected a **Multi-CSP IaC scaling engine** using **etcd watch** and **Command Pattern-based rollback** for transactional node lifecycle management.
+- **High Availability:** Built enterprise-grade HA environments using **Patroni, etcd, and Barman**.
+- **Internal Tools:** Developed **Query Printer** for query tree visualization and deep-dive performance analysis.
 
-------------------------
+**2) SuperTibero Team (Oct 2023 – Oct 2024)** *Enterprise-grade RDBMS with distributed storage architecture.*
+- **SQL Compiler:** Developed **Parser, Query Transformer, and Cost-Based Optimizer (CBO)** modules.
+- **Query Optimization:** Implemented **Index Range Scan, Predicate Pushdown, and Sort-Skip** optimization.
+- **Security:** Designed privilege check and authentication systems for secure SQL execution.
+
+---
+
+### 🎓 Education
+- **B.S. in Physics** – Yonsei University, Seoul
+  - Focus: **Statistical Mechanics**, Quantum Mechanics
+
+---
+
+### 🏆 Achievements & Certifications
+- **Algorithms**
+  - **Top 3.5%** on [Baekjoon - Platinum V](https://solved.ac/profile/sjh910805)
+    
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjh910805">
+  - **Top 4.2%** Contributor on [Leetcode](https://leetcode.com/Joshua-Shin/) (Consecutive years: 2023, 2024)
+    <br><br> ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Joshua-Shin)`
+- **Certifications**
+  - Engineer Information Processing (HRDK)
+  - SQL Developer (SQLD, Kdata)
+
+---
+
+### 📫 Connect with Me
+- [GitHub](https://github.com/Joshua-Shin)
+- [LinkedIn](www.linkedin.com/in/joonghyuk-shin-631701201)
+- **Email:** sjh910805@gmail.com
+
+<!--
 ### Additional
 #### Algorithm
 
