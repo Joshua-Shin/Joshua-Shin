@@ -30,7 +30,7 @@
 - **Oracle Compatibility:** Optimized core functions through algorithm redesign, achieving **50%+ performance gains**.
 - **Row-Level Security (DBMS_RLS):** Designed/implemented Oracle-compatible RLS policies and **planner integration**.
 - **Vector DB & RAG:** Integrated `pgvector` and implemented LLM-based RAG solutions within the DB engine.
-- **Cluster Orchestration (OpenScaler):** Architected a **Multi-CSP IaC scaling engine** using **etcd watch** and **Command Pattern-based rollback** for transactional node lifecycle management.
+- **Cluster Orchestration:** Architected a **Multi-CSP IaC scaling engine** using **etcd watch** and **Command Pattern-based rollback** for transactional node lifecycle management.
 - **High Availability:** Built enterprise-grade HA environments using **Patroni, etcd, and Barman**.
 - **Internal Tools:** Developed **Query Printer** for query tree visualization and deep-dive performance analysis.
 
