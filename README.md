@@ -6,7 +6,7 @@
 ### 🚀 Summary
 - **Systems Engineering:** Specializing in database engine kernels and distributed coordination logic.
 - **DBMS Internals:** Expertise in extending **PostgreSQL** with Oracle-compatible features and **Vector/LLM integration** for RAG solutions.
-- **Distributed Systems:** Architected distributed lifecycle engines (OpenScaler) with a focus on **transactional state consistency** and **reliability** in multi-cloud environments.
+- **Distributed Systems:** Architected distributed lifecycle engines with a focus on **transactional state consistency** and **reliability** in multi-cloud environments.
 - **Background:** Strong foundation in **Physics (Statistical Mechanics)**, providing a deep understanding of probability, mathematical modeling, and high-performance system design.
 
 ---
