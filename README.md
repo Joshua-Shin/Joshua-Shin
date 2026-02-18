@@ -4,21 +4,22 @@
 ---
 
 ### 🚀 Summary
-- **Systems Engineering:** Specializing in database engine kernels and distributed coordination logic.
-- **DBMS Internals:** Expertise in extending **PostgreSQL** with Oracle-compatible features and **Vector/LLM integration** for RAG solutions.
-- **Distributed Systems:** Architected distributed lifecycle engines with a focus on **transactional state consistency** and **reliability** in multi-cloud environments.
-- **Background:** Strong foundation in **Physics (Statistical Mechanics)**, providing a deep understanding of probability, mathematical modeling, and high-performance system design.
+- System-level software engineer specializing in database engine kernels and distributed coordination.
+- Expertise in extending PostgreSQL with C extensions, hooks (planner, object access), Vector/LLM integration, and Oracle-compatible features.
+- Experience architecting distributed lifecycle engines with a focus on transactional state consistency and reliability.
+- Proficient in C, C++, Python, and Linux; solid foundation in algorithms, probability, and high-performance distributed system design.
 
 ---
 
 ### 🛠 Skills
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C/C++ (Modern)`, `Python`, `SQL`, `Java`, `Bash` |
-| **DB Internals** | `PostgreSQL/Oracle Engine Core`, `Query Compiler`, `Cost-Based Optimizer (CBO)`, `Vector Search` |
-| **Distributed Systems** | `Consensus (etcd/Raft)`, `High Availability (Patroni)`, `Cluster Orchestration (IaC)` |
-| **Core Foundations** | `Probability`, `High-performance Algorithms`, `Performance Profiling & Benchmarking` |
-| **Tools & Env** | `Linux (System-level)`, `Docker`, `Git`, `AWS/Azure (SDK/API Integration)` |
+| Area | Details |
+|------|--------|
+| **Languages** | C, C++ (Modern), Python, SQL, Java, Bash |
+| **DB Internals** | PostgreSQL/Oracle engine core, query compiler, optimizer (CBO), vector search |
+| **PostgreSQL** | C extensions, planner hook, object access hook, RLS, parser/planner integration |
+| **Distributed** | Consensus (etcd/Raft), high availability, cluster orchestration (IaC) |
+| **Core** | Probability, high-performance algorithms, performance profiling & benchmarking |
+| **Tools** | Linux (system-level), Docker, Git, AWS/Azure (SDK/API integration) |
 
 ---
 
@@ -26,18 +27,41 @@
 
 #### **Tmax Tibero** | Database Engine Developer (Oct 2023 – Present)
 
-**1) OpenSQL Team (Nov 2024 – Present)** *PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.*
-- **Oracle Compatibility:** Optimized core functions through algorithm redesign, achieving **50%+ performance gains**.
-- **Row-Level Security (DBMS_RLS):** Designed/implemented Oracle-compatible RLS policies and **planner integration**.
-- **Vector DB & RAG:** Integrated `pgvector` and implemented LLM-based RAG solutions within the DB engine.
-- **Cluster Orchestration:** Architected a **Multi-CSP IaC scaling engine** using **etcd watch** and **Command Pattern-based rollback** for transactional node lifecycle management.
-- **High Availability:** Built enterprise-grade HA environments using **Patroni, etcd, and Barman**.
-- **Internal Tools:** Developed **Query Printer** for query tree visualization and deep-dive performance analysis.
+**1) OpenSQL Team (Nov 2024 – Present)**
+PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.
 
-**2) SuperTibero Team (Oct 2023 – Oct 2024)** *Enterprise-grade RDBMS with distributed storage architecture.*
-- **SQL Compiler:** Developed **Parser, Query Transformer, and Cost-Based Optimizer (CBO)** modules.
-- **Query Optimization:** Implemented **Index Range Scan, Predicate Pushdown, and Sort-Skip** optimization.
-- **Security:** Designed privilege check and authentication systems for secure SQL execution.
+- **Row-Level Security (DBMS_RLS)**  
+  Designed and implemented Oracle-compatible RLS as a **PostgreSQL C extension**, using **planner_hook** and **object_access_hook** for planner integration and runtime policy enforcement. Delivered transient-view–style predicate injection and definer-rights policy execution aligned with Oracle VPD semantics.
+
+- **Oracle compatibility**  
+  Implemented Oracle-compatible functions/packages and conducted performance benchmarking; achieved measurable improvements including 50%+ gain for the median function through algorithm redesign.
+
+- **Vector DB & RAG**  
+  Integrated pgvector, developed vector embedding features, and implemented LLM integration for DB-based RAG solutions.
+
+- **High availability**  
+  Designed PostgreSQL HA environments using Patroni, etcd, and Barman for enterprise workloads.
+
+- **Cluster orchestration & scaling**  
+  Architected a Multi-CSP IaC (ARM/CloudFormation) scaling engine using etcd watch for real-time state sync and Command Pattern–based rollback for transactional reliability in distributed node lifecycle.
+
+- **Debug / monitoring**  
+  Built Query Printer to visualize query trees for debugging and performance analysis.
+
+**2) SuperTibero Team (Oct 2023 – Oct 2024)**
+Enterprise RDBMS with distributed storage; focused on SQL compiler modules.
+
+- **SQL compiler**  
+  Built parser, query transformer, and cost-based optimizer.
+
+- **Query optimization**  
+  Implemented index range scan, predicate pushdown, sort-skip optimization, and execution plan cache.
+
+- **Privilege & authentication**  
+  Designed and implemented privilege check and authentication for secure SQL execution.
+
+- **Performance**  
+  Delivered query transformation features that improved index scan opportunities and reduced redundant operations.
 
 ---
 
