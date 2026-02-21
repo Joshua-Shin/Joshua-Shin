@@ -18,7 +18,7 @@
 | **DB Internals** | PostgreSQL/Oracle engine core, query compiler, optimizer (CBO), vector search |
 | **PostgreSQL** | C extensions, planner hook, object access hook, RLS, parser/planner integration |
 | **Distributed** | Consensus (etcd/Raft), high availability, cluster orchestration (IaC) |
-| **Core** | Probability, high-performance algorithms, performance profiling & benchmarking |
+| **Core** | Probability, high-performance algorithms |
 | **Tools** | Linux (system-level), Docker, Git, AWS/Azure (SDK/API integration) |
 
 ---
@@ -40,13 +40,13 @@ PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.
   Integrated pgvector, developed vector embedding features, and implemented LLM integration for DB-based RAG solutions.
 
 - **High availability**  
-  Designed PostgreSQL HA environments using Patroni, etcd, and Barman for enterprise workloads.
+  Designed PostgreSQL HA environments using Patroni and etcd for enterprise workloads.
 
 - **Cluster orchestration & scaling**  
   Architected a Multi-CSP IaC (ARM/CloudFormation) scaling engine using etcd watch for real-time state sync and Command Pattern–based rollback for transactional reliability in distributed node lifecycle.
 
 - **Debug / monitoring**  
-  Built Query Printer to visualize query trees for debugging and performance analysis.
+  Built internal debug tooling to print PostgreSQL query trees during development.
 
 **2) SuperTibero Team (Oct 2023 – Oct 2024)**
 Enterprise RDBMS with distributed storage; focused on SQL compiler modules.
