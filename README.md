@@ -28,6 +28,7 @@
 #### **Tmax Tibero** | Database Engine Developer (Oct 2023 – Present)
 
 **1) OpenSQL Team (Nov 2024 – Present)**
+
 PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.
 
 - **Row-Level Security (DBMS_RLS)**  
@@ -49,6 +50,7 @@ PostgreSQL-based managed RDBMS with Oracle compatibility and vector DB features.
   Built internal debug tooling to print PostgreSQL query trees during development.
 
 **2) SuperTibero Team (Oct 2023 – Oct 2024)**
+
 Enterprise RDBMS with distributed storage; focused on SQL compiler modules.
 
 - **SQL compiler**  
